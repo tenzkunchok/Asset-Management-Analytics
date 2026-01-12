@@ -1,0 +1,26 @@
+location_id,location_name,borough,location_type,line
+LOC0001,G Line - Station 1,Manhattan,Station,Q
+LOC0002,E Line - Power Substation 2,Brooklyn,Station,7
+LOC0003,N Line - Signal House 3,Manhattan,Yard,W
+LOC0004,F Line - Yard 4,Manhattan,Track Segment,7
+LOC0005,B Line - Yard 5,Queens,Yard,E
+LOC0006,B Line - Shop 6,Queens,Yard,J
+LOC0007,6 Line - Station 7,Staten Island,Track Segment,3
+LOC0008,3 Line - Power Substation 8,Manhattan,Track Segment,F
+LOC0009,F Line - Track Segment 9,Brooklyn,Station,D
+LOC0010,R Line - Station 10,Brooklyn,Station,N
+LOC0011,2 Line - Signal House 11,Manhattan,Track Segment,SIR
+LOC0012,Q Line - Shop 12,Manhattan,Track Segment,J
+LOC0013,Q Line - Power Substation 13,Brooklyn,Track Segment,E
+LOC0014,7 Line - Power Substation 14,Manhattan,Yard,E
+LOC0015,G Line - Power Substation 15,Queens,Track Segment,E
+LOC0016,4 Line - Power Substation 16,Brooklyn,Track Segment,N
+LOC0017,L Line - Signal House 17,Bronx,Track Segment,A
+LOC0018,Z Line - Station 18,Queens,Station,4
+LOC0019,C Line - Shop 19,Manhattan,Station,A
+LOC0020,2 Line - Yard 20,Bronx,Station,1
+LOC0021,SIR Line - Signal House 21,Queens,Station,3
+LOC0022,B Line - Yard 22,Brooklyn,Station,3
+LOC0023,R Line - Track Segment 23,Manhattan,Signal House,L
+LOC0024,J Line - Shop 24,Queens,Station,Z
+LOC0025,L Line - Power Substation 25,Manhattan,Station,Z
