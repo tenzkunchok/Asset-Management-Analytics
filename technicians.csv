@@ -1,0 +1,71 @@
+technician_id,technician_name,crew,shift,home_location_id,hire_date
+TECH0001,Sam Lee,Signals,Evening,LOC0012,2014-08-28
+TECH0002,Avery Brown,Power,Night,LOC0004,2023-11-08
+TECH0003,Jamie Johnson,Signals,Day,LOC0016,2012-02-28
+TECH0004,Sam Lewis,Rolling Stock,Night,LOC0022,2023-09-24
+TECH0005,Taylor Jackson,Track,Day,LOC0003,2023-10-25
+TECH0006,Jordan Lee,Track,Day,LOC0019,2018-12-24
+TECH0007,Taylor Nguyen,Track,Evening,LOC0004,2012-06-25
+TECH0008,Jamie Clark,Power,Day,LOC0019,2012-05-03
+TECH0009,Alex Lewis,Track,Night,LOC0011,2014-04-09
+TECH0010,Morgan Lewis,Signals,Night,LOC0001,2018-08-30
+TECH0011,Quinn Brown,Signals,Day,LOC0025,2012-04-21
+TECH0012,Parker Davis,Facilities,Night,LOC0005,2016-11-01
+TECH0013,Alex Martinez,Facilities,Day,LOC0015,2011-09-25
+TECH0014,Quinn Wilson,Rolling Stock,Evening,LOC0005,2018-02-08
+TECH0015,Avery Johnson,Track,Day,LOC0024,2010-04-26
+TECH0016,Morgan Wilson,Facilities,Night,LOC0019,2020-08-20
+TECH0017,Sam Garcia,Rolling Stock,Day,LOC0021,2010-10-31
+TECH0018,Devin Kim,Rolling Stock,Day,LOC0011,2012-12-03
+TECH0019,Cameron Anderson,Track,Day,LOC0012,2012-08-14
+TECH0020,Avery Patel,Track,Night,LOC0016,2022-06-20
+TECH0021,Parker Lewis,Signals,Night,LOC0020,2010-10-20
+TECH0022,Sam Thomas,Facilities,Evening,LOC0022,2016-06-09
+TECH0023,Taylor Lewis,Track,Night,LOC0001,2018-11-13
+TECH0024,Chris Anderson,Signals,Night,LOC0017,2017-09-28
+TECH0025,Morgan Garcia,Track,Evening,LOC0003,2020-03-18
+TECH0026,Jordan Brown,Power,Day,LOC0008,2022-01-18
+TECH0027,Chris Garcia,Signals,Night,LOC0021,2015-11-27
+TECH0028,Jamie Kim,Rolling Stock,Evening,LOC0007,2022-06-04
+TECH0029,Devin Davis,Rolling Stock,Day,LOC0020,2014-10-09
+TECH0030,Parker Anderson,Rolling Stock,Day,LOC0012,2024-10-07
+TECH0031,Riley Anderson,Track,Evening,LOC0006,2017-07-27
+TECH0032,Cameron Nguyen,Power,Day,LOC0009,2021-01-15
+TECH0033,Avery Garcia,Power,Night,LOC0014,2023-02-16
+TECH0034,Riley Lewis,Power,Day,LOC0020,2021-11-21
+TECH0035,Jamie Martinez,Signals,Day,LOC0016,2022-10-08
+TECH0036,Parker Thomas,Track,Night,LOC0024,2018-01-18
+TECH0037,Avery Lewis,Signals,Day,LOC0022,2010-08-27
+TECH0038,Jamie Wilson,Track,Day,LOC0019,2017-05-25
+TECH0039,Jordan Brown,Track,Evening,LOC0016,2012-09-21
+TECH0040,Jordan Wilson,Signals,Night,LOC0008,2023-05-04
+TECH0041,Devin Davis,Signals,Day,LOC0011,2013-07-21
+TECH0042,Taylor Nguyen,Power,Day,LOC0003,2013-06-03
+TECH0043,Drew Nguyen,Signals,Night,LOC0010,2013-09-28
+TECH0044,Reese Thomas,Facilities,Night,LOC0024,2019-08-22
+TECH0045,Parker Johnson,Power,Evening,LOC0011,2018-07-27
+TECH0046,Avery Johnson,Track,Day,LOC0003,2024-03-26
+TECH0047,Jamie Lewis,Power,Day,LOC0017,2016-03-30
+TECH0048,Skyler Davis,Signals,Day,LOC0025,2014-03-27
+TECH0049,Quinn Thomas,Facilities,Day,LOC0022,2010-09-27
+TECH0050,Cameron Brown,Track,Evening,LOC0007,2010-02-08
+TECH0051,Casey Clark,Rolling Stock,Day,LOC0012,2015-08-10
+TECH0052,Reese Garcia,Signals,Evening,LOC0014,2023-11-21
+TECH0053,Jordan Kim,Track,Evening,LOC0007,2017-11-09
+TECH0054,Casey Martinez,Track,Evening,LOC0007,2023-05-28
+TECH0055,Quinn Garcia,Facilities,Day,LOC0006,2011-07-12
+TECH0056,Devin Thomas,Power,Night,LOC0025,2011-05-27
+TECH0057,Parker Clark,Track,Evening,LOC0019,2022-07-03
+TECH0058,Avery Lewis,Track,Evening,LOC0022,2011-08-08
+TECH0059,Alex Kim,Track,Day,LOC0021,2010-10-12
+TECH0060,Skyler Davis,Power,Day,LOC0024,2016-01-24
+TECH0061,Drew Kim,Track,Night,LOC0003,2023-11-16
+TECH0062,Chris Jackson,Signals,Day,LOC0023,2020-05-05
+TECH0063,Riley White,Rolling Stock,Day,LOC0002,2011-06-28
+TECH0064,Alex Davis,Rolling Stock,Evening,LOC0012,2022-07-23
+TECH0065,Logan Martinez,Signals,Evening,LOC0015,2022-08-27
+TECH0066,Logan Kim,Power,Night,LOC0009,2022-01-05
+TECH0067,Chris Clark,Signals,Day,LOC0004,2023-07-17
+TECH0068,Morgan Johnson,Rolling Stock,Night,LOC0005,2013-08-07
+TECH0069,Cameron Martinez,Track,Day,LOC0021,2024-09-11
+TECH0070,Skyler Clark,Rolling Stock,Evening,LOC0008,2014-10-24
