@@ -19,9 +19,14 @@ Locations – facility and borough-level context
 All datasets were cleaned and prepared in MySQL before analysis.
 All raw datasets are stored in the `data/` folder.
 
+
 ## Tools
 - SQL (MySQL) for data preparation and analysis
 - Tableau for interactive dashboards and KPIs
+
+## SQL
+- `SQL/views.sql` – creates analysis-ready views used for dashboards
+- `SQL/analysis_queries.sql` – analytical queries for risk, backlog, and cost analysis
 
 ## Results
 
